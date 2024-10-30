@@ -1,0 +1,49 @@
+body{
+    background-color: lightgray;
+    text-align: center;
+}
+header{
+    text-align: center;
+    font-size: 25px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+.greyrow{
+    
+    font-size: 20px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-color: rgb(230,230,230);
+    padding: 30px;
+    text-align: center;
+}
+.whiterow{
+    
+    font-size: 20px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-color: rgb(255,255,255);
+    padding: 1px;
+    
+}
+.divetile{
+    margin:15px;
+    font: 20px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-color: rgb(129, 129, 129);
+    text-align: center;
+    transition: all .2s ease-in;
+    padding: 10px;
+}
+.divetile:hover{
+    background-color: blue;
+    color:white;
+    transform: scale(1.1);
+    cursor:pointer;
+    
+}
+button{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-color:rgb(129,129,129);
+    color: black
+
+}
+.Links{
+}
